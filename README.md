@@ -118,7 +118,6 @@ int main(void)
   {
     /* USER CODE END WHILE */
      printf("DHNAUSRI \n");
-     printf("scoft\n");
      HAL_Delay(500);
   }
 }
